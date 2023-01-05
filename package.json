@@ -34,7 +34,7 @@
     "eslint-plugin-import": "^2.2.0",
     "jsdom": "^9.11.0",
     "rollup": "0.41",
-    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-babel": "^4.4.0",
     "uglify-js": "2"
   },
   "dependencies": {
